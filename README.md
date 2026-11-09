@@ -40,7 +40,7 @@ L'application a été conçue pour fonctionner complètement hors ligne, avec sy
   * En cliquant sur le bouton de scan dans le formulaire, l'appareil photo s'ouvre avec CameraX.
   * Un modèle ML Kit analyse le flux vidéo en direct : il reconnaît le texte (OCR) pour extraire le titre des manuels ou des cours et permet de pré-remplir l'annonce en un clic.
   * Il identifie également les objets visibles (ex: livre, ordinateur, etc.).
-  * Tout fonctionne à $100\%$ en local sur le téléphone, sans appel réseau ni clé API.
+  * Tout fonctionne à 100% en local sur le téléphone, sans appel réseau ni clé API.
 
 * **Boussole Campus avec capteurs magnétiques :**
   * Sur la page de détail d'une annonce, une boussole animée utilise l'accéléromètre et le magnétomètre du téléphone (`SensorManager`).
