@@ -1,19 +1,15 @@
-# 📦 Troc'Campus — Application Android Native
+# 📦 Troc'Campus : Application Android Native
 
-Auteur : **Korentin Georget** — Master 2 DFS (Università di Corsica)  
-* **Télécharger l'APK :** [GitHub Release v1.0.0 — `app-debug.apk`](https://github.com/KorentinGeorget/Troc-Campus-Android/releases/tag/v1.0.0)  
+Auteur : **Korentin Georget**, Master 2 DFS (Università di Corsica)  
+* **Télécharger l'APK :** [GitHub Release v1.0.0 (app-debug.apk)](https://github.com/KorentinGeorget/Troc-Campus-Android/releases/tag/v1.0.0)  
 * **Dépôt PWA :** [https://github.com/KorentinGeorget/Troc-Campus](https://github.com/KorentinGeorget/Troc-Campus)  
 * **PWA en ligne :** [https://troc-campus.korentingeorget.com](https://troc-campus.korentingeorget.com)  
 
----
-
 ## Présentation du projet
 
-Ce projet est le portage natif en **Kotlin** et **Jetpack Compose** de ma PWA Troc'Campus, une application de petites annonces étudiantes (dons, ventes et trocs) pour les campus de l'Université de Corse (Corte, Bastia, Ajaccio).
+Ce projet est le portage natif en **Kotlin** et **Jetpack Compose** de ma PWA Troc'Campus, une application de petites annonces étudiantes (dons, ventes et trocs) pour les campus de l'Université de Corse.
 
 L'application a été conçue pour fonctionner complètement hors ligne, avec synchronisation en arrière-plan et intégration des fonctionnalités matérielles du téléphone.
-
----
 
 ## Ce qui a été développé
 
@@ -51,8 +47,6 @@ L'application a été conçue pour fonctionner complètement hors ligne, avec sy
 * **Notifications :** Canaux de notifications configurés (synchronisation et alertes de campus) avec service Firebase Cloud Messaging (FCM) et bouton de test différé de 5 secondes pour tester la réception.
 * **Partage :** Partage d'annonces avec photo vers d'autres applications via un `FileProvider`, et possibilité de recevoir du texte partagé depuis une autre app pour créer une annonce.
 * **Permissions :** Gestion des permissions (caméra, localisation et notifications) avec explication pour l'utilisateur et redirection vers les paramètres système en cas de refus définitif.
-
----
 
 ## Compilation et exécution
 
