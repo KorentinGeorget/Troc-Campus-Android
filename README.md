@@ -2,7 +2,9 @@
 
 Projet de TP noté pour le module **Développement d'applications mobiles** (Master 2 Informatique, Università di Corsica).  
 Auteur : **Korentin Georget**  
-Portage complet de ma Progressive Web App : [https://troc-campus.korentingeorget.com](https://troc-campus.korentingeorget.com) en application native Android (Kotlin + Jetpack Compose).
+* **Télécharger l'APK compilé :** [GitHub Release v1.0.0 — `app-debug.apk`](https://github.com/KorentinGeorget/Troc-Campus-Android/releases/tag/v1.0.0)  
+* **Dépôt PWA :** [https://github.com/KorentinGeorget/Troc-Campus](https://github.com/KorentinGeorget/Troc-Campus)  
+* **PWA en ligne :** [https://troc-campus.korentingeorget.com](https://troc-campus.korentingeorget.com)  
 
 ---
 
