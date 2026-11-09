@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Troc\'Campus</string>
+    <string name="channel_sync_name">Synchronisation Outbox</string>
+    <string name="channel_sync_desc">Notifications de confirmation lorsque les annonces hors ligne sont synchronisées avec succès.</string>
+    <string name="channel_alerts_name">Alertes Campus &amp; Dons</string>
+    <string name="channel_alerts_desc">Alertes lorsqu\'un nouveau don ou une annonce est publié sur votre campus.</string>
+    <string name="notif_synced_title">Troc\'Campus — Synchronisation terminée</string>
+
+    <plurals name="notif_synced_desc">
+        <item quantity="one">%d annonce hors ligne a été synchronisée.</item>
+        <item quantity="other">%d annonces hors ligne ont été synchronisées.</item>
+    </plurals>
+
+    <string name="shortcut_new_ad_short">Déposer</string>
+    <string name="shortcut_new_ad_long">Déposer une nouvelle annonce</string>
+    <string name="shortcut_scanner_short">Scanner IA</string>
+    <string name="shortcut_scanner_long">Scanner un objet avec ML Kit</string>
+</resources>

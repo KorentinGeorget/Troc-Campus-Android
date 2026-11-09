@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776386895587",
+    "project_id": "testapp-7e2f1",
+    "storage_bucket": "testapp-7e2f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776386895587:android:61809aa6990e9902c5efd6",
+        "android_client_info": {
+          "package_name": "com.example.app_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtVPJifXkt0A6oDVjR2xFvcJXmunGxvuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776386895587:android:86cb03c014a2cfb8c5efd6",
+        "android_client_info": {
+          "package_name": "com.korentingeorget.troccampus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtVPJifXkt0A6oDVjR2xFvcJXmunGxvuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
